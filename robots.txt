@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eengeiwim.dchere.com/sitemap.xml
